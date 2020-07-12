@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Arfat Salman. I like teaching computer science and exploring different programming langauges and paradigms. I love to make stuff in JavaScript. 
+I am Arfat Salman. I like teaching computer science and exploring different programming langauges and paradigms. I also love to make stuff in JavaScript and React. 
 
 - 📫 How to reach me: https://twitter.com/salman_arfat
 
