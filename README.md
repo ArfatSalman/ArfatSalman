@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Arfat Salman. I love to make stuff in JavaScript, React and Node.js. I also like teaching computer science and exploring different programming langauges and paradigms. 
+I am Arfat Salman. I love making stuff in JavaScript, React and Node.js. I also like teaching computer science and exploring different programming langauges and paradigms. 
 
 - 📫 How to reach me: https://twitter.com/salman_arfat
 
