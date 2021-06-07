@@ -2,7 +2,8 @@
 
 I am Arfat Salman. I love making stuff in JavaScript, React and Node.js. I also like teaching computer science and exploring different programming langauges and paradigms. 
 
-- 📫 How to reach me: https://twitter.com/salman_arfat
+- 📫 How to reach me: [Twitter](https://twitter.com/salman_arfat)
+- Blog at [Medium](https://medium.com/@arfatsalman) with 2.5K followers.
 
 <!--
 **ArfatSalman/ArfatSalman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
