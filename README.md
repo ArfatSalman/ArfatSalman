@@ -2,7 +2,7 @@
 
 I am Arfat Salman. I love making stuff in JavaScript, React and Node.js. I also like teaching computer science and exploring different programming langauges and paradigms. 
 
-- [Personal Homepage](arfat.dev)
+- [Personal Homepage](https://arfat.dev)
 - 📫 How to reach me: [Twitter](https://twitter.com/salman_arfat)
 - Blog at [Medium](https://medium.com/@arfatsalman) with 2.5K followers.
 
